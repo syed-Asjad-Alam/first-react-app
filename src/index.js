@@ -11,6 +11,7 @@ ReactDOM.render(
   <App name = "Asjad Alam" age = {21}/>,
   <MediaCard title="Mediacard Task" body="This is the Body of mediacard task" imageUrl = "https://upload.wikimedia.org/wikipedia/commons/e/ed/Pakistan_Monument_Ibd.jpg" />,
   <Gate isOpen={true} />,
+  <Gate isOpen={false} />,
   </div>,
   document.getElementById('root')
 )
