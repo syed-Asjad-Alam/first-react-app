@@ -31,3 +31,32 @@ code {
   font-style: italic;
   text-decoration: underline;
 }
+
+
+.room {
+  height: 100%;
+  margin: 0;
+}
+.lit {
+  background-color: white;
+  color: black;
+}
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.ONOFF {
+  height: 100%;
+  margin: 0;
+}
+
+.Green {
+  background-color: greenyellow;
+  color: white;
+}
+
+.notGreen {
+  background-color: white;
+  color: black;
+}
